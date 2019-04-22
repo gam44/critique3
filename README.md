@@ -1,0 +1,11 @@
+# Data Visualization Project
+------
+
+###Critique 3
+![Gracie Meisel](Images/screenshot.jpg?raw=true "Gracie Meisel")
+
+For this project, I decided to create a sketch around pay disparities between men and women in professional basketball, soccer, and tennis. Growing up, I loved playing sports, specifically tennis, and it was always apparent to me how the girls' teams were treated as less than the boys' teams at my school. Of course we were not paid, but in terms of our facilities, uniforms, and general attention from the administration and student body, we clearly were not valued as much as the boys. 
+
+Because of my passion for sports and my awareness of the gender inequalities present at varying levels, I wanted to visualize data that showed the pay disparities between men and women in professional sports. I chose three sports that offered three different pictures. Prize money for men and women for one of the biggest professional tennis tournaments - Wimbledon - is equal now, while the difference between salary caps for male and female basketball teams is so extreme that it is hard to even see the female data due to the wide range on the y-axis. Professional soccer lies somewhere in between the two. 
+
+I chose to use ScrollMagic to scroll between the different graphs to allow the viewer to flip between the extremes. I chose the colors within this sketch carefully in order to attract the viewer to the piece. Although the topic is heavy, the sea foam green has a more calming effect that I hoped would not seem so intimidating. Personally, I sometimes find it too intense when serious topics are combined with overwhelming and dominating backgrounds. I thought the the orange and blue of the columns complemented the sea foam green color, but stood out enough to draw in the viewer without being too harsh. My hope is that the viewer can learn more about gender inequality in professional sport salaries in an interactive way that makes them interested in learning and exploring more. 
